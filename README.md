@@ -1,10 +1,10 @@
-# sara-ie
+# README
 
 This GitHub repo contains the code for the experiments of the paper
 
-**Connecting Symbolic Statutory Reasoning with Legal Information Extraction** \[[paper](https://aclanthology.org/2023.nllp-1.12.pdf)\]
-Nils Holzenberger and Benjamin Van Durme
-*Natural Legal Language Processing Workshop*, 2023
+**Connecting Symbolic Statutory Reasoning with Legal Information Extraction** \[[paper](https://aclanthology.org/2023.nllp-1.12.pdf)\]  
+Nils Holzenberger and Benjamin Van Durme  
+*Natural Legal Language Processing Workshop*, 2023  
 
 First, install the required packages listed in `requirements.txt`.
 
